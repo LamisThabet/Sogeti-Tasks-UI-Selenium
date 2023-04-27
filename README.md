@@ -11,4 +11,4 @@
 #### 3-  OR run the tests from their seperate classes [src-->test-->java-->tests-->"testcase"]
 
 ## **Notes**
-#### Steps and comments are written in the test classes
+#### Steps and comments are written in the test classes.
