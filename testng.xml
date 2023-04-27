@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Sogeti Site">
+    <test name="Sogeti-UI-Tests">
+        <classes>
+            <class name="tests.firstCaseTest"/>
+            <class name="tests.secondCaseTest"/>
+            <class name="tests.thirdCaseTest"/>
+</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->
